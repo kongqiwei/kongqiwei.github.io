@@ -1,4 +1,5 @@
 ## Welcome to Qiwei's Pages
+### 生命是一场修行，你我都是行者。
 
 You can use the [editor on GitHub](https://github.com/kongqiwei/kongqiwei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
